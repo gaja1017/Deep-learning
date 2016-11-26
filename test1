@@ -1,2 +1,11 @@
 import tensorflow as tf
+import numpy as np
+import pandas as pd
+
+a=1
+b=5
+c=a+b
+
+
 print('Hello world')
+print(c)
